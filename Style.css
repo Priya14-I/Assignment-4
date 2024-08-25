@@ -1,0 +1,63 @@
+  .icon{
+    color: white;
+    width: 13px;
+    height: 5px;
+    margin-left: 755px;
+    background-image: url("more.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+  body{
+    background-image: url("image.jpg");
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 300px  700px
+}
+.button{
+    color: white;
+    background-color: orange;
+    padding: 5px 15px;
+    border-radius: 1px;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    font-weight: 200px;
+    margin-left: 600px;
+    
+   
+}
+.h1{
+    text-align: center;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+.p{ 
+    text-align: center;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: smaller;
+}
+.h{
+    color: rgb(255, 254, 254);
+    text-align:left;
+    padding-left: 483px;
+    font-family: "Roboto", sans-serif;
+}
+.p1{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding-left:483px; 
+    justify-content: flex-start;
+    font-family: "Roboto", sans-serif;
+    font-size: smaller;
+}
+.p2{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Roboto", sans-serif;
+    font-size: xx-small;
+
+}

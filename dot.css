@@ -1,0 +1,60 @@
+body {
+    background-image: url("image.jpg");
+    background-size: 300px 800px; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.button {
+    color: white;
+    background-color: orange;
+    padding: 5px 15px;
+    border-radius: 1px;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    margin-left: 600px;
+}
+
+.h1 {
+    text-align: center;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+.p {
+    text-align: center;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: smaller;
+}
+
+.h {
+    color: rgb(255, 254, 254);
+    text-align: left;
+    padding-left: 480px;
+    font-family: "Roboto", sans-serif;
+}
+.p1 {
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding-left: 480px; 
+    font-family: "Roboto", sans-serif;
+    font-size: smaller;
+}
+
+.p2 {
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Roboto", sans-serif;
+    font-size: xx-small;
+}
